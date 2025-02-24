@@ -3,11 +3,11 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: 
-Matricula: 
+Nome: Lucas Henrique Pereira Silva
+Matricula: 879364
 
-## Tela de inspeção com navegador
+Tela inspeção: https://imgur.com/5ut8GIJ
 
 
-## Tela de projeto no Replit
+Tela do replit: https://imgur.com/B4wjPB1
 
